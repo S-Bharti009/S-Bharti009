@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swastik Bharti</h1>
-<h3 align="center">B.Tech CSE @ Guru Nanak Dev University, Amritsar | web Developer</h3>
+<h3 align="center">B.Tech ECM @ Guru Nanak Dev University, Amritsar | web Developer</h3>
 
 <p align="center">
   🌐 Building full-stack projects with React, Node.js, and MongoDB<br>
